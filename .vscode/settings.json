@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "board-back/src/main/java"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic"
+}

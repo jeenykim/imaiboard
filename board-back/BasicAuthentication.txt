@@ -1,0 +1,11 @@
+Basic Authentication
+-사용자 이름 / 비밀번호를 Base64로 인코딩하여 Authentication 헤더에 포함하여 전송됨
+
+Authentication:Basic ~~~~
+
+Bearer Token Authentication
+-헤더에 토큰을 포함하여 전송  Authentication 헤더에 포함하여 전송됨
+-JWT을 사용하여 인증
+-간단한 방식, 상태를 유지하지 않음, 확장성이 높음
+-토큰 노출 위험, 토큰관리
+
